@@ -1,0 +1,40 @@
+[20-Aug-2013 21:09:14 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/nav-menu-template.php on line 17
+[20-Aug-2013 21:09:18 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/author-template.php on line 392
+[20-Aug-2013 21:09:27 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/general-template.php on line 1315
+[20-Aug-2013 21:09:32 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/user.php on line 71
+[20-Aug-2013 21:09:33 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/class-wp-xmlrpc-server.php on line 22
+[20-Aug-2013 21:09:37 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/script-loader.php on line 25
+[20-Aug-2013 21:09:39 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/rss.php on line 18
+[20-Aug-2013 21:09:42 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/default-filters.php on line 17
+[20-Aug-2013 21:09:45 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/default-widgets.php on line 14
+[20-Aug-2013 21:09:52 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/comment-template.php on line 1217
+[20-Aug-2013 21:09:58 America/New_York] PHP Fatal error:  Call to undefined function is_admin() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/vars.php on line 20
+[20-Aug-2013 21:10:00 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/kses.php on line 1392
+[20-Aug-2013 21:10:01 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/taxonomy.php on line 121
+[20-Aug-2013 21:10:03 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/theme.php on line 582
+[20-Aug-2013 21:10:09 America/New_York] PHP Fatal error:  Call to undefined function is_robots() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/template-loader.php on line 14
+[20-Aug-2013 21:10:13 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/canonical.php on line 506
+[20-Aug-2013 21:10:22 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/class-feed.php on line 4
+[20-Aug-2013 21:10:27 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/shortcodes.php on line 377
+[20-Aug-2013 21:10:33 America/New_York] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/class.wp-styles.php on line 19
+[20-Aug-2013 21:10:37 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/functions.php on line 8
+[20-Aug-2013 21:10:53 America/New_York] PHP Fatal error:  Call to undefined function feed_content_type() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/feed-rss2.php on line 8
+[20-Aug-2013 21:10:55 America/New_York] PHP Fatal error:  Call to undefined function feed_content_type() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/feed-atom.php on line 8
+[20-Aug-2013 21:10:57 America/New_York] PHP Fatal error:  Call to undefined function feed_content_type() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/feed-rdf.php on line 8
+[20-Aug-2013 21:11:01 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/rss-functions.php on line 8
+[20-Aug-2013 21:11:03 America/New_York] PHP Fatal error:  Call to undefined function feed_content_type() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/feed-rss.php on line 8
+[20-Aug-2013 21:11:05 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/post.php on line 165
+[20-Aug-2013 21:11:06 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/class-simplepie.php on line 5
+[20-Aug-2013 21:11:09 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/category-template.php on line 766
+[20-Aug-2013 21:11:12 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/ms-default-filters.php on line 17
+[20-Aug-2013 21:11:13 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/ms-default-constants.php on line 151
+[20-Aug-2013 21:11:17 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/registration.php on line 7
+[20-Aug-2013 21:11:21 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/class-wp-embed.php on line 20
+[20-Aug-2013 21:11:22 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/class-snoopy.php on line 6
+[23-Jan-2014 14:36:57 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/nav-menu-template.php on line 17
+[23-Jan-2014 14:37:02 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/general-template.php on line 1315
+[23-Jan-2014 14:37:03 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/author-template.php on line 392
+[27-Feb-2014 16:32:45 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/general-template.php on line 1342
+[27-Feb-2014 16:32:47 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/nav-menu-template.php on line 17
+[27-Feb-2014 16:32:50 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/author-template.php on line 453
+[16-Dec-2015 01:13:27 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/jespcl/public_html/kahlilifestyle.com/wp-includes/rss-functions.php on line 8

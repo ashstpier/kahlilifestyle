@@ -1,0 +1,1 @@
+[03-Nov-2015 04:24:17 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/jespcl/public_html/kahlilifestyle.com/wp-content/plugins/akismet/legacy.php on line 356
